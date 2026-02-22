@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.18731053
 # GRA-Multiverse-Nullification
 
 > **РУ**: Многоуровневая архитектура GRA Мета-обнулёнки в мультиверсе  
@@ -170,4 +171,5 @@ EN: COGNITIVE VACUUM ACHIEVED!
 ***
 
 > **РУ**: Экспериментальный исследовательский проект. Issues, вопросы, pull requests приветствуются!  
+
 > **EN**: Experimental research project. Issues, questions, PRs welcome!
