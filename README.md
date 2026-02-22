@@ -1,3 +1,8 @@
+# GRA-Nulliverse: Multilevel Meta-Nullification Architecture
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--1872--1153-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1872-1153)
+[![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.18731053.svg)](https://doi.org/10.5281/zenodo.18731053)
+
 https://doi.org/10.5281/zenodo.18731053
 # GRA-Multiverse-Nullification
 
@@ -173,3 +178,4 @@ EN: COGNITIVE VACUUM ACHIEVED!
 > **РУ**: Экспериментальный исследовательский проект. Issues, вопросы, pull requests приветствуются!  
 
 > **EN**: Experimental research project. Issues, questions, PRs welcome!
+
