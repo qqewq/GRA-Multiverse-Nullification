@@ -1,0 +1,98 @@
+                    GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
+
+ Copyright (C) 2026 Oleg Bitsoev <qqewq@protonmail.com>
+
+ GRA-Multiverse-Nullification repository:
+ https://github.com/qqewq/GRA-Multiverse-Nullification
+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+--------------------------------------------------------------------------------
+
+PRACTICAL EXTRA PERMISSION FOR NON-COMMERCIAL RESEARCH:
+
+As copyright holder of GRA-Multiverse-Nullification, I Oleg Bitsoev grant 
+additional permission to use, modify, and distribute this software for:
+
+1. Non-commercial academic research
+2. Open-source AGI/ASI development projects
+3. Personal learning and experimentation
+
+PROVIDED THAT:
+
+a) Attribution maintained: "Based on GRA-Multiverse-Nullification by Oleg Bitsoev"
+b) Modifications clearly marked and open-sourced
+c) Results/publications cite original repository/Zenodo DOI
+
+Commercial applications require explicit written license from author.
+
+--------------------------------------------------------------------------------
+
+ALTERNATIVE LICENSES AVAILABLE:
+
+For commercial deployment, enterprise use, or proprietary AGI:
+- Contact: qqewq@protonmail.com
+- MIT license available (paid)
+- Custom enterprise licensing
+
+This ensures responsible AGI development while enabling broad academic access.
+
+--------------------------------------------------------------------------------
+
+REPOSITORY STRUCTURE LICENSE CONFIRMATION:
+
+All files in this repository fall under this license unless otherwise specified:
+
+MIT Licensed files (3rd party examples):
+- examples/third_party/  # If any
+
+Public domain mathematical theory:
+- docs/theory*.md       # Pure math, no copyright
+- docs/theorem_proof.md # Theorems/proofs
+
+Core implementation (GPLv3):
+- src/multiverse/       # optimizer.py, foam.py, etc.
+- examples/toy_multiverse.py
+
+Generated outputs:
+- multiverse_nullification.png (CC0)
+- main.pdf (same as source)
+
+See individual file headers for specifics.
+
+--------------------------------------------------------------------------------
+
+CITATION (for publications):
+
+@misc{Bitsoev2026,
+  author = {Bitsoev, Oleg},
+  title  = {GRA-Multiverse-Nullification: Multilevel Meta-Nullification Architecture in Multiverse},
+  year   = {2026},
+  month  = {February},
+  doi    = {10.5281/zenodo.XXXXXXX},
+  url    = {https://github.com/qqewq/GRA-Multiverse-Nullification}
+}
+
+Zenodo DOI will be updated post first release.
+
+--------------------------------------------------------------------------------
+
+NOTICES:
+
+- Patent applications pending for core nullification algorithm
+- Export controlled for military applications
+- No liability for AGI containment failures
+
+Last updated: February 22, 2026
